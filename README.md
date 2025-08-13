@@ -2,7 +2,8 @@
 
 Este projeto foi desenvolvido durante o **Bootcamp E-Commerce** do [Full Stack Club](https://www.fullstackclub.com.br/), um curso completo para desenvolvimento de aplicações e-commerce modernas.
 
-> **Nota:** O projeto está atualmente em fase de desenvolvimento.
+> **Nota:** O projeto está atualmente em fase de desenvolvimento e conta com responsividade apenas para dispositivos móveis. <br>
+> **Deploy atual:** [Bewear E-commerce](https://bootcamp-bewear.vercel.app/)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -159,12 +160,6 @@ npm run dev
 ```
 
 O projeto estará disponível em [http://localhost:3000](http://localhost:3000).
-
-## 📚 Documentação Adicional
-
-Para informações detalhadas sobre instalação e configuração das tecnologias utilizadas, consulte:
-
-📖 **[Guia de Instalação e Configuração](./SETUP.md)**
 
 ## 📱 Abordagem Mobile-First
 
