@@ -1,9 +1,9 @@
-# BeWear E-Commerce
+# Bewear E-Commerce
 
 Este projeto foi desenvolvido durante o **Bootcamp E-Commerce** do [Full Stack Club](https://www.fullstackclub.com.br/), um curso completo para desenvolvimento de aplicações e-commerce modernas.
 
 > **Nota:** O projeto está atualmente em fase de desenvolvimento e conta com responsividade apenas para dispositivos móveis. <br>
-> **Deploy atual:** [Bewear E-commerce](https://bootcamp-bewear.vercel.app/)
+> **Deploy atual:** [Bewear E-Commerce](https://bootcamp-bewear.vercel.app/)
 
 ## 🚀 Tecnologias Utilizadas
 
